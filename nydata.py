@@ -3,7 +3,6 @@
 import requests
 
 nydata_app_token = 'QXXAcUts45qgPHyLsdabAwyB4'
-nydata_secret_token = 'TojePyVeDjwZX89jymiY4vMWwfxT-FhVQRNt'
 
 def sortit(a):
 	return a["test_date"]
